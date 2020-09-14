@@ -44,4 +44,4 @@ Know our public repositories on <a href="https://github.com/Fiive-Studio">Fiive 
 
 **Some of my illustrations**
 
-<img alt="P-Chan" src="https://fiivestudio.com/wp-content/uploads/2020/09/illustrations.png" height="500" />
+<img alt="P-Chan" src="https://fiivestudio.com/wp-content/uploads/2020/09/illustrations.png" width="600" />
