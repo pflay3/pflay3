@@ -13,7 +13,11 @@ Follow me<br />
 
 <br /><br />
 
-Soy un programador senior con 14 años de experiencia en la industria de la tecnología de la información. Me gusta la estructura, el orden y también defiendo la calidad. Me encanta pasar tiempo arreglando pequeños detalles y optimizando aplicaciones. También me gusta trabajar en equipo, aprenderás más rápido y mucho más.
+I'm a senior developer with 14 years of experience.<br />
+<a href="https://fiivestudio.com/">Fiive Studio</a> Co-Founder
+<br />
+
+Know our public repositories on <a href="https://github.com/Fiive-Studio">Fiive Studio <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 <a href="https://www.instagram.com/p/CEaxCQUJ_mG/">
 <img align="right" alt="P-Chan" src="https://drive.google.com/uc?export=view&id=1nq4liv1voCTHEAB2pRJXaYG_xTNYTd94" height="300" />
@@ -37,3 +41,7 @@ Soy un programador senior con 14 años de experiencia en la industria de la tecn
 
 - EDIFACT | ANSI | IDOC
 - Xml
+
+**Some of my illustrations**
+
+<img alt="P-Chan" src="https://drive.google.com/uc?export=view&id=1u_tk-gk-nR8WeD0-tSn0wvJYIp6wHMhP" height="500" />
