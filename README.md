@@ -20,7 +20,7 @@ I'm a senior developer with 14 years of experience.<br />
 Know our public repositories on <a href="https://github.com/Fiive-Studio">Fiive Studio <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 <a href="https://www.instagram.com/p/CEaxCQUJ_mG/">
-<img align="right" alt="P-Chan" src="https://drive.google.com/uc?export=view&id=1nq4liv1voCTHEAB2pRJXaYG_xTNYTd94" height="300" />
+<img align="right" alt="P-Chan" src="https://fiivestudio.com/wp-content/uploads/2020/09/pchan.png" height="300" />
 </a>
   
   **Languages and Tools:**
@@ -44,4 +44,4 @@ Know our public repositories on <a href="https://github.com/Fiive-Studio">Fiive 
 
 **Some of my illustrations**
 
-<img alt="P-Chan" src="https://drive.google.com/uc?export=view&id=1u_tk-gk-nR8WeD0-tSn0wvJYIp6wHMhP" height="500" />
+<img alt="P-Chan" src="https://fiivestudio.com/wp-content/uploads/2020/09/illustrations.png" height="500" />
